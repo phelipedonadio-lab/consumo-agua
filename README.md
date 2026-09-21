@@ -25,7 +25,7 @@ Praticar conceitos fundamentais de programação, como:
 
 ## Instruções de Uso
 
-1. Execute o arquivo `classificador_agua.py`.
+1. Execute o arquivo `app.py`.
 2. Informe o tipo de imóvel (comercial, casa ou apartamento) e o consumo mensal de água em m³.
 
    > ⚠️ **Observação:** informe o consumo apenas com o valor numérico, **sem unidade de medida** (ex.: digite `18`, não `18m³`).
