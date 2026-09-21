@@ -36,7 +36,7 @@ Praticar conceitos fundamentais de programação, como:
 
 ## 📋 Tabela de Regras de Classificação
 
-Complementando o fluxograma, uma tabela de regras facilita consultas rápidas — é o mesmo tipo de artefato usado em documentações técnicas para deixar regras de negócio explícitas e fáceis de atualizar quando os limites (thresholds) mudarem.
+Complementando o fluxograma, uma tabela de regras facilita consultas rápidas.
 
 | Tipo de Imóvel | Condição            | Classificação                  |
 |-----------------|---------------------|---------------------------------|
